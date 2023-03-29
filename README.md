@@ -8,4 +8,4 @@ Tolls:
 - React Native Expo
 - notifee
 
-![Screenshot from 2023-03-29 13-47-46](https://user-images.githubusercontent.com/75041514/228610490-56e7fb79-7197-415f-bede-8ba48d4f8613.png)
+![Screenshot from 2023-03-29 13-52-32](https://user-images.githubusercontent.com/75041514/228611612-2d2b44f5-b2da-4416-a966-d131a480b580.png)
