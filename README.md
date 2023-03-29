@@ -1,4 +1,4 @@
-<h1 align="center"> RENTX </h1>
+<h1 align="center"> LocalNotification </h1>
 
 Description: An app made to study the lib notifee, that is a lib to to send notification with native modules in react-native.
 In this app i used some functions of this lib to send, update, cancel and make a notification with timer.
